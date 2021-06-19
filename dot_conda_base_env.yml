@@ -1,4 +1,4 @@
-name: base
+name: all
 channels:
     - defaults
     - fastchan
@@ -18,4 +18,4 @@ dependencies:
         - jupyterlab_vim
         - timm
         - kaggle
-prefix: /home/brandon/miniconda3
+        - wwf

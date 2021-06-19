@@ -1,0 +1,7 @@
+# Aliases
+alias g="gpustat -ci 0.5"
+alias jn="jupyter notebook"
+alias jl="jupyter lab"
+alias v="vim"
+
+

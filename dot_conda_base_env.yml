@@ -15,5 +15,5 @@ dependencies:
     - albumentations
     - pip:
         - jupyterlab_vim
-	-
+        - 
 prefix: /home/brandon/miniconda3

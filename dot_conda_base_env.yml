@@ -13,7 +13,9 @@ dependencies:
     - nbdev
     - jupyterlab
     - albumentations
+    - gpustat
     - pip:
         - jupyterlab_vim
-        - 
+        - timm
+        - kaggle
 prefix: /home/brandon/miniconda3
